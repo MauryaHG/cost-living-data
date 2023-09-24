@@ -35,7 +35,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/MauryaHG/cost-living-data/main/cost-of-living.csv"
+          "url": "cost-of-living.csv"
         },
         "key": "city",
         "fields": ["x1"]
